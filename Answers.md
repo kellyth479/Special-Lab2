@@ -1,9 +1,5 @@
 **Interview Questions for _Special Topics Lab 2_**
 
-Please answer the following questions in the [answers](https://github.com/kellyth479/Special-Lab2/blob/master/Answers.md) file!
-
-
-
 * **Question 1**
     * What is your favorite sport to watch/play?
         * What is your favorite team?
