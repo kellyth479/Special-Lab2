@@ -11,8 +11,21 @@
     
 * **Question 3**
     * Do you like pizza?
-        *  What is your favorite topping?
+        *  What is your favorite topping?_
         
         
 * **Questions 4**
     * Are you happy Spring is finally here?
+    
+
+1. __**Answer to question 1 here**__
+    1. __**Answer to question 1a here**__
+    
+1. __**Answer to question 2 here**__
+
+1. __**Answer to question 3 here**__
+
+   1. __**Answer to question 3a here**__
+   1. __**Answer to question 3b here**__
+   
+1. __**Answer to question 4 here**__
