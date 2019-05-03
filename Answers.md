@@ -11,7 +11,8 @@
     
 * **Question 3**
     * Do you like pizza?
-        *  What is your favorite topping?_
+        *  What is your favorite topping?
+        *  Chicago or New York?
         
         
 * **Questions 4**
