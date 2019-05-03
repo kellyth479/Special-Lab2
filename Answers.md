@@ -20,13 +20,13 @@
     
 
 1. __**Answer to question 1 here**__
-    1. __**Answer to question 1a here**__
+    1. __**Football. Chicago Bears**__
     
-1. __**Answer to question 2 here**__
+1. __**Double Chocolate Chip**__
 
 1. __**Answer to question 3 here**__
 
-   1. __**Answer to question 3a here**__
-   1. __**Answer to question 3b here**__
+   1. __**Good ol pepperoni**__
+   1. __**Chicago**__
    
-1. __**Answer to question 4 here**__
+1. __**Nope, allergies suck.**__
