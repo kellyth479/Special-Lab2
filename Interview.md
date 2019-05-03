@@ -1,9 +1,5 @@
 **Interview Questions for _Special Topics Lab 2_**
 
-Please answer the following questions in the [answers](https://github.com/kellyth479/Special-Lab2/blob/master/Answers.md) file!
-
-
-
 * **Question 1**
     * What is your favorite sport to watch/play?
         * What is your favorite team?
@@ -16,7 +12,21 @@ Please answer the following questions in the [answers](https://github.com/kellyt
 * **Question 3**
     * Do you like pizza?
         *  What is your favorite topping?
+        *  Chicago or New York?
         
         
 * **Questions 4**
     * Are you happy Spring is finally here?
+    
+
+1. __**Answer to question 1 here**__
+    1. __**Answer to question 1a here**__
+    
+1. __**Answer to question 2 here**__
+
+1. __**Answer to question 3 here**__
+
+   1. __**Answer to question 3a here**__
+   1. __**Answer to question 3b here**__
+   
+1. __**Answer to question 4 here**__
