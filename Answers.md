@@ -27,6 +27,6 @@
 1. __**Of course**__
 
    1. __**Good ol pepperoni**__
-   1. __**there is no question 3b**__
+   1. __**Chicago**__
    
-1. __**No, Spring sucks when you have allergies**__
+1. __**Nope, allergies suck.**__
